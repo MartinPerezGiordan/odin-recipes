@@ -1,0 +1,39 @@
+
+.titles {
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+ul {
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: brown;
+    color: aqua;
+    font-weight: 700;
+}
+
+ol {
+    background-color: rebeccapurple;
+    color: aliceblue;
+    font-style: italic;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: greenyellow;
+    background-color: magenta;
+    font-weight: 700;
+}
+
+h3 {
+    font-style: italic;
+    font-weight: 700;
+    background-color: springgreen;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
